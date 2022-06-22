@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Immigrate"]
+	path = Immigrate
+	url = https://github.com/ruzhangzhao/immigrate
+	shallow = true
+	registered = true
