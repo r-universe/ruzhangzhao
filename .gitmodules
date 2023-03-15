@@ -8,3 +8,8 @@
 	url = https://github.com/ruzhangzhao/immigrate
 	shallow = true
 	registered = true
+[submodule "mixhvg"]
+	path = mixhvg
+	url = https://github.com/ruzhangzhao/mixhvg
+	shallow = true
+	registered = true
