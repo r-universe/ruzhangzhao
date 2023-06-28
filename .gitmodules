@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Immigrate"]
 	path = Immigrate
 	url = https://github.com/ruzhangzhao/immigrate
-	shallow = true
-	registered = true
 [submodule "mixhvg"]
 	path = mixhvg
 	url = https://github.com/ruzhangzhao/mixhvg
-	shallow = true
-	registered = true
